@@ -16,8 +16,7 @@ To write a python program to perform sliding window protocol.
 # PROGRAM :
 ## CLIENT:
 ```
-# DEVLOPED BY:M.D.HARINI
-# REG NO.:2122222230043
+
 import socket
 s=socket.socket()
 s.bind(('localhost',8000))
@@ -39,8 +38,7 @@ while True:
 ```
 ## SERVER:
 ```
-# DEVLOPED BY:M.D.HARINI
-# REG NO.:2122222230043
+
 import socket
 s=socket.socket()
 s.connect(('localhost',8000))
